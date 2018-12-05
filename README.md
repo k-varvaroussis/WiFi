@@ -1,2 +1,2 @@
 # WiFi
-Repository for the Group of the WiFi Task. Group: Marilyn, Saeed, Petra, Konstantin.
+Predicting the location of a phone (person) based on the wifi signals (of different strengths) it receives from different routers (WAPs). 
